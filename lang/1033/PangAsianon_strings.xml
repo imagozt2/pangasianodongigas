@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <PangAsianon>Mekong giant catfish</PangAsianon>
+      <PangAsianon_stt>Mekong giant catfish</PangAsianon_stt>
+      <PangAsianon_lower>The Mekong giant catfish</PangAsianon_lower>
+      <PangAsianon_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mekong giant catfish</b>
+         </color>
+         <br/>
+         Click to adopt a Mekong giant catfish,.
+      </PangAsianon_ltt>
+      <!--gift names-->
+      <PangAsianon_Gift>Mekong giant catfish rucksack</PangAsianon_Gift>
+      <PangAsianon_Gift_stt>Mekong giant catfish rucksack</PangAsianon_Gift_stt>
+      <PangAsianon_Gift_lower>The Mekong giant catfish rucksack</PangAsianon_Gift_lower>
+      <PangAsianon_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mekong giant catfish rucksack</b>
+         </color>
+         <br/>The people buy this gift when it sees the Mekong giant catfish.
+      </PangAsianon_Gift_ltt>
+</entityname>
+<zoopedia_pangasianon>
+ <entry>Mekong giant catfish</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/PangAsianon/PangAsianon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Critical risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Wetlands<br/></color>
+     <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mekong river<br/></color> 
+     <img src="ui/icon_maplocations/Temperateforest_China.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>(Actinopterygii)</i><br/>Order: Siluriformes <br/>Family:  Pangasiidae <br/>Generate: <i>Pangasianodon</i><br/>Specis: <i>P. gigas</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts of Mekong giant catfish</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Mekong giant catfish is distinguished by the near-total lack of barbels and the absence of teeth.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In 2003 went to the red list made by the IUCN as Critically Endangered.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Measure 3 m.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unblock the Mekong giant catfish you need 1 star of reputation in your zoo. 
+   </color>
+   <p/>The Mekong giant catfish is perhaps the most interesting and most threatened species in the Mekong river. For this reason conservationists have chosen it as a sort of “flagship” species to promote conservation on the Mekong. With recorded sizes of up to 10.5ft (3.2m) and 660lb (300kg), the Mekong’s giant catfish currently holds the Guinness Book of World Records' position for the world’s largest freshwater fish.[4] Although research projects are currently ongoing, relatively little is known about this species. Historically, the fish had a natural range that reached from the lower Mekong in Vietnam (above the tidally influenced brackish water of the river’s delta) all the way to the northern reaches of the river in the Yunnan province of China, spanning almost the entire 4,800 km length of the river.[5] Due to threats, this species no longer inhabits the majority of its original habitat; it is now believed to only exist in small, isolated populations in the middle Mekong region. Fish congregate during the beginning of the rainy season and migrate upstream to spawn. They live primarily in the main channel of the river, where the water depth is over 10m while researchers, fishermen and officials have found this species in the Tonle Sap river and lake in Cambodia, a UNESCO Biosphere reserve. In the past, fishermen have reported the fish in a number of the Mekong’s tributaries; today, however, essentially no sightings are reported outside of the main Mekong river channel and the Tonle Sap region. In infancy, this species feeds on zooplankton in the river and is known to be cannibalistic. After approximately one year, the fish becomes herbivorous, feeding on filamentous algae, probably ingesting larvae and periphyton accidentally. The fish likely obtains its food from algae growing on submerged rocky surfaces, as it does not have any sort of dentition.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content from <color r="255" g="231" b="135">Wikipedia</color>Imago, dedicated to Maximilian
+  </cell>
+ </text>
+</zoopedia_pangasianon>
+</ZT2Strings>

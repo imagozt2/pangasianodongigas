@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <PangAsianon>Pangasius gigante</PangAsianon>
+      <PangAsianon_stt>Pangasius gigante</PangAsianon_stt>
+      <PangAsianon_lower>El Pangasius gigante</PangAsianon_lower>
+      <PangAsianon_ltt>
+         <color r="255" g="248" b="178">
+            <b>Pangasius gigante</b>
+         </color>
+         <br/>
+         Click para adoptar un Pangasius gigante, un gigante de agua dulce.
+      </PangAsianon_ltt>
+      <!--gift names-->
+      <PangAsianon_Gift>Mochila de Pangasius gigante</PangAsianon_Gift>
+      <PangAsianon_Gift_stt>Mochila de Pangasius gigante</PangAsianon_Gift_stt>
+      <PangAsianon_Gift_lower>La Mochila de Pangasius gigante</PangAsianon_Gift_lower>
+      <PangAsianon_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Pangasius gigante</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al Pangasius gigante.
+      </PangAsianon_Gift_ltt>
+</entityname>
+<zoopedia_pangasianon>
+ <entry>Pangasius gigante</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/PangAsianon/PangAsianon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Peligro critico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Rio Mekong<br/></color> 
+     <img src="ui/icon_maplocations/Temperateforest_China.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Actinopterygii)</i><br/>Orden: Siluriformes <br/>Familia: Pangasiidae <br/>Genero: <i>Pangasianodon</i><br/>Especie: <i>P. gigas</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Pangasius gigante</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">En 2003 se puso a la lista roja que realiza el IUCN como En peligro critico.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vive en el rio Mekong, Xina.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">No tiene barbas, cosa que tienen la mayoria de los siluros.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Pangasius gigante necesitas 1 estrella de fama en tu zoo. 
+   </color>
+   <p/>El siluro gigante del Mekong es quiza el mas interesante y amenazada especie en el rio Mekong. Por esta razon, los conservacionistas han elegido como una especie de "buque insignia" para promover la conservacion de especies en el Mekong (Hogan et al. 2004, MGCCG, 2005). Con tamaños registrados de hasta 10,5 pies (3,2 m) y 660 libras (300 kg), siluro gigante del Mekong en la actualidad aparece en el Libro Guinness de posicion record mundial de pescado mas grande del mundo de agua dulce (Mydans et al. 2005, Hogan et al. 2004, Hogan et al. 2007). Aunque los proyectos de investigacion actualmente en curso, se sabe relativamente poco sobre esta especie. Historicamente, el pescado tiene un area de distribucion natural que se extiende desde el rio Mekong inferior en Vietnam (por encima del agua por las mareas influencia salobres del delta del rio) hasta llegar a las regiones del norte del rio en la provincia de Yunnan de China, que abarca casi el 4.800 km toda la longitud del rio (Lopez et al. 2007, Hogan et al. 2007). Debido a las amenazas que se discutira mas adelante, esta especie ya no habita la mayoria de su habitat original, ahora se cree que solo existen son pequeñas poblaciones aisladas en la region del Mekong medio (Hogan et al. 2004). Pescado congregan durante el inicio de la temporada de lluvias y migran rio arriba para desovar (Hogan et al. 2004). Viven principalmente en el cauce principal del rio donde la profundidad del agua es superior a 10 m (Mattson et al. 2002) mientras que los investigadores, los pescadores y los funcionarios han encontrado esta especie en el rio Tonle Sap y el lago de Camboya (tambien una reserva de biosfera de la UNESCO ). En el pasado, los pescadores han informado de los peces en un numero de afluentes del Mekong, hoy sin embargo practicamente no se reportan avistamientos fuera del cauce principal del rio Mekong y la region de Tonle Sap..
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Wikipedia</color> Hecho por: Imago, dedicado a Maximilian
+  </cell>
+ </text>
+</zoopedia_pangasianon>
+</ZT2Strings>

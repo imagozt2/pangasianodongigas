@@ -1,0 +1,18 @@
+<BFTypedBinder binderType="Siluridae" abstract="true">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Actinopterygii>
+                  <Siluriformes>
+                     <Siluridae/>
+                  </Siluriformes>
+               </Actinopterygii>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+</BFTypedBinder>

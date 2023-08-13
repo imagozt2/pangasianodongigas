@@ -1,0 +1,33 @@
+<BFTypedBinder binderType="PangAsianon_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Actinopterygii>
+                  <Siluriformes>
+                     <Siluridae>
+                        <PangAsianon>
+                           <PangAsianon_Adult>
+                              <PangAsianon_Adult_M/>
+                           </PangAsianon_Adult>
+                        </PangAsianon>
+                     </Siluridae>
+                  </Siluriformes>
+               </Actinopterygii>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="PangAsianon_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1" f_adoptCount="rand(1,1)"/>
+   </shared>
+   <binder/>
+</BFTypedBinder>
